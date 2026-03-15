@@ -32,6 +32,8 @@ migrate_working_dir/
 .pub/
 /build/
 /coverage/
+/lib/core/constants/api_key.dart
+/lib/core/constants/prompt.dart
 
 # Symbolication related
 app.*.symbols
